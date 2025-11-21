@@ -27,7 +27,7 @@ The objective is to create a robust, reproducible, and transparent workflow for 
 ## 📂 Project Structure
 ```
 .
-├── Disease Detection - Sanius Health.ipynb   # Main end-to-end notebook
+├── Disease Detection.ipynb   # Main end-to-end notebook
 ├── README.md                                 # Project documentation
 └── mlruns / dagshub                           # (Remote) MLflow tracking
 ```
